@@ -20,11 +20,18 @@ We are adopting the Kimball methodology with a galaxy schema type for the follow
   
 - **Galaxy Schema**: Suitable for sharing dimensions across data marts.
 
-## Components
-1. **Data Extraction**: Gather data from flight records, reservation systems, and customer care logs.
-   
-2. **Data Transformation**: Process raw data into structured formats.
-   
-3. **Data Modeling**: Design galaxy schema data model to support analysis.
-   
-4. **Analysis and Visualization**: Derive insights and present findings through dashboards and reports.
+  ![image](https://github.com/AliMagdy100/Airline-Company-DWH-Modeling/assets/87953057/f2458639-40dd-4b02-80b2-06d0b263c6d5)
+
+
+## Logical Model
+**Excutives Mart**:
+   ![flight Data Mart-Page-2 drawio](https://github.com/AliMagdy100/Airline-Company-DWH-Modeling/assets/87953057/20bade94-d38d-40dc-b8cf-2a67d3baff5c)
+
+**Finance Mart**
+   ![Reservation flight Data Mart-Page-1 drawio](https://github.com/AliMagdy100/Airline-Company-DWH-Modeling/assets/87953057/bf105a7c-e7fa-452c-9198-4aa9a1e0ca18)
+
+**Marketing Mart**
+   ![Marketing DataMart drawio](https://github.com/AliMagdy100/Airline-Company-DWH-Modeling/assets/87953057/b3d0e2fe-5ffd-4793-8bc7-fd9368baffb1)
+
+**Customer Care Mart**
+![Customer Care Data Mart drawio](https://github.com/AliMagdy100/Airline-Company-DWH-Modeling/assets/87953057/04b9f559-c447-4efd-8078-97e429fc6edd)
